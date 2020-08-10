@@ -1,0 +1,27 @@
+{
+    "name": "dh_base_extension",
+    "displayName": "Base extension platform boilerplate to scaffold off of",
+    "description": "CDN Links and Preview Libs for Fonta Awesome, Material Icons, Iconian, FlatIcon",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "react",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
