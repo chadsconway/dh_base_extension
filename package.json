@@ -3,6 +3,11 @@
     "displayName": "Base extension platform boilerplate to scaffold off of",
     "description": "CDN Links and Preview Libs for Fonta Awesome, Material Icons, Iconian, FlatIcon",
     "version": "0.1.0",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com//chadsconway//dh_base_extension"
+    },
     "engines": {
         "vscode": "^1.47.0"
     },
